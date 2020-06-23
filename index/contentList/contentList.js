@@ -160,7 +160,7 @@
     */
     function justClick() {
          $('.list-content').on('click',  function () {
-             var url = "https://5ef1c0230167f7e29071dbd2--festive-franklin-4cbf86.netlify.app/menu/menu.html"
+             var url = "https://affectionate-bartik-3f90e6.netlify.app/menu/menu.html"
              window.open(url,'_self');
          });
     }
